@@ -1,5 +1,5 @@
 """
-this method is nor a dynamic programming method, it is waste of time and memory!
+this method is not a dynamic programming method, it is waste of time and memory!
 def fib(n):
     if n == 0:
         return 1
